@@ -2,6 +2,8 @@
 
 A stunning, feature-rich 3D art gallery built with Three.js featuring advanced particle systems, dynamic lighting modes, and professional-grade visual effects. This project showcases 5 different artworks from Unsplash in a realistic gallery environment with cutting-edge web technologies.
 
+## LIVE PREVIEW: https://statuesque-bavarois-536333.netlify.app/
+
 ## ✨ Enhanced Features
 
 ### **Advanced Visual Effects**
